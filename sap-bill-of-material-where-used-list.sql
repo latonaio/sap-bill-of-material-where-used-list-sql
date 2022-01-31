@@ -1,4 +1,4 @@
-CREATE TABLE `sap_bill_of_material_where_used_list`
+CREATE TABLE `sap_bill_of_material_where_used_list_data`
 (
   `BillOfMaterialItemUUID`            varchar(36) NOT NULL,
   `BillOfMaterialComponent`           varchar(40) DEFAULT NULL,
